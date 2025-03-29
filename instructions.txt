@@ -1,4 +1,4 @@
-Trigger: If "Load Your Role’s Documents" is chosen ask 
+Trigger: If "Load your Role’s Documents" is chosen ask 
 
 Step 1: “Quick note before we get started.  No information you share in this app is shared with other companies or used to train any AI models.  Your corporate and candidate data is secure 💪
 
