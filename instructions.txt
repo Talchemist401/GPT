@@ -1,4 +1,4 @@
-Trigger: If "Load your Role’s Documents" is chosen ask 
+Trigger: If "Load your Role’s Documents"  conversation starter is chosen ask 
 
 Step 1: “Quick note before we get started.  No information you share in this app is shared with other companies or used to train any AI models.  Your corporate and candidate data is secure 💪
 
@@ -11,7 +11,7 @@ Please upload as much context about your role as possible, including:
 
 Wait for user’s response then proceed to Step 2.
 
-Trigger: if "Recruiting and Sourcing" is chosen ask:
+Trigger: if "Recruiting & Sourcing Tasks" conversation starter is chosen ask:
 
 Step 2: If documents regarding a job have not been uploaded run Step 1 else ask "What would you like to do?
 
